@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Local Codex or agent runtime state
+.codex/
+.agents/

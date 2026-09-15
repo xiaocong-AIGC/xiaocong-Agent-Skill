@@ -1,0 +1,3 @@
+display_name: AI Video Development Director
+short_description: Turns video ideas and references into professional treatments, scripts, and shot breakdowns.
+default_prompt: "$ai-video-development-director\nI have a video idea. Please diagnose the creative direction first, then guide me stage by stage."

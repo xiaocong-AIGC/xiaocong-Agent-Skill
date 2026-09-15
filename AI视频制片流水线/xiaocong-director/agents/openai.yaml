@@ -1,0 +1,7 @@
+interface:
+  display_name: "xiaocong-Director"
+  short_description: "小聪导演：角色板、故事板与视频提示词"
+  default_prompt: "Use $xiaocong-director to turn my script or reference-video analysis into GPT Image 2.0 character boards, storyboard prompts, and Seedance 2.0 final video prompts."
+
+policy:
+  allow_implicit_invocation: true
